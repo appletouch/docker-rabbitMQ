@@ -1,5 +1,5 @@
 FROM centos:centos7
-MAINTAINER Rene Klootwijk <rene@klootwijk.org>
+MAINTAINER Peter van de Koolwijk  <iphone@appletouch.nl>
 
 RUN yum -y update; yum clean all
 
